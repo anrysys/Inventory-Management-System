@@ -1,0 +1,14 @@
+/home/anry/projects/cert/fullstack/InventorySystem/bin/Debug/net8.0/InventorySystem
+/home/anry/projects/cert/fullstack/InventorySystem/bin/Debug/net8.0/InventorySystem.deps.json
+/home/anry/projects/cert/fullstack/InventorySystem/bin/Debug/net8.0/InventorySystem.runtimeconfig.json
+/home/anry/projects/cert/fullstack/InventorySystem/bin/Debug/net8.0/InventorySystem.dll
+/home/anry/projects/cert/fullstack/InventorySystem/bin/Debug/net8.0/InventorySystem.pdb
+/home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/InventorySystem.AssemblyInfoInputs.cache
+/home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/InventorySystem.AssemblyInfo.cs
+/home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/InventorySystem.csproj.CoreCompileInputs.cache
+/home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/InventorySystem.dll
+/home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/refint/InventorySystem.dll
+/home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/InventorySystem.pdb
+/home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/InventorySystem.genruntimeconfig.cache
+/home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/ref/InventorySystem.dll
