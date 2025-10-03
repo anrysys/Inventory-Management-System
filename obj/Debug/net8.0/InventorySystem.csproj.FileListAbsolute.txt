@@ -12,3 +12,4 @@
 /home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/InventorySystem.pdb
 /home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/InventorySystem.genruntimeconfig.cache
 /home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/ref/InventorySystem.dll
+/home/anry/projects/cert/fullstack/InventorySystem/obj/Debug/net8.0/InventorySystem.sourcelink.json
